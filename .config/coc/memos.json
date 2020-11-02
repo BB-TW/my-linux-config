@@ -1,7 +1,139 @@
 {
   "coc-python|global": {
-    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
-    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [
+      {
+        "architecture": 3,
+        "path": "/home/maj/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/home/maj/anaconda3",
+        "fileHash": "e398b25002ecbb7bbefb2de594f7fffafe20ac41d8d394fd32cb3a3c6e3181347b90e615e65cae9dadce2ef0cd60594e28dd1b463ee196082b70710626e0cdfb",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/maj/anaconda3",
+        "envName": "base"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/maj/anaconda3/envs/tensorflow/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.12-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.12-final"
+        },
+        "sysPrefix": "/home/maj/anaconda3/envs/tensorflow",
+        "fileHash": "6f7792e1cfefb77f7c47fde4ff3db115efd8072132f60300adec1be10d49b1efacca0cdb51368d0b79c21804447dbaae730a2ea59b7f6c4632a482ce672ebe1b",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/maj/anaconda3/envs/tensorflow",
+        "envName": "tensorflow"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/maj/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/home/maj/anaconda3",
+        "fileHash": "e398b25002ecbb7bbefb2de594f7fffafe20ac41d8d394fd32cb3a3c6e3181347b90e615e65cae9dadce2ef0cd60594e28dd1b463ee196082b70710626e0cdfb",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/maj/anaconda3",
+        "envName": "base"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/maj/anaconda3/envs/tensorflow/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.12-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.12-final"
+        },
+        "sysPrefix": "/home/maj/anaconda3/envs/tensorflow",
+        "fileHash": "6f7792e1cfefb77f7c47fde4ff3db115efd8072132f60300adec1be10d49b1efacca0cdb51368d0b79c21804447dbaae730a2ea59b7f6c4632a482ce672ebe1b",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/maj/anaconda3/envs/tensorflow",
+        "envName": "tensorflow"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/maj/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/home/maj/anaconda3",
+        "fileHash": "e398b25002ecbb7bbefb2de594f7fffafe20ac41d8d394fd32cb3a3c6e3181347b90e615e65cae9dadce2ef0cd60594e28dd1b463ee196082b70710626e0cdfb",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/maj/anaconda3",
+        "envName": "base"
+      }
+    ],
     "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
     "/sbin/python2.7.v3": {
       "data": {
@@ -506,25 +638,25 @@
     "INTERPRETERS_CACHE_v3_CurrentPathService": [
       {
         "architecture": 3,
-        "path": "/usr/sbin/python3",
+        "path": "/home/maj/anaconda3/bin/python3",
         "version": {
           "options": {
             "loose": false,
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.8.5-final",
+          "raw": "3.8.3-final",
           "major": 3,
           "minor": 8,
-          "patch": 5,
+          "patch": 3,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.8.5-final"
+          "version": "3.8.3-final"
         },
-        "sysPrefix": "/usr",
-        "fileHash": "974438523883361fe5e37afb7919fbd79c93589631ecdf54ea60ae6f895234efad396646890ec6781829ef1adb295c5e9f0cd6c18d9bd8cb4ba5e19ac408d0b8",
+        "sysPrefix": "/home/maj/anaconda3",
+        "fileHash": "e398b25002ecbb7bbefb2de594f7fffafe20ac41d8d394fd32cb3a3c6e3181347b90e615e65cae9dadce2ef0cd60594e28dd1b463ee196082b70710626e0cdfb",
         "type": "Unknown"
       },
       {
@@ -552,52 +684,121 @@
       },
       {
         "architecture": 3,
-        "path": "/usr/sbin/python",
+        "path": "/home/maj/anaconda3/bin/python",
         "version": {
           "options": {
             "loose": false,
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.8.5-final",
+          "raw": "3.8.3-final",
           "major": 3,
           "minor": 8,
-          "patch": 5,
+          "patch": 3,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.8.5-final"
+          "version": "3.8.3-final"
         },
-        "sysPrefix": "/usr",
-        "fileHash": "974438523883361fe5e37afb7919fbd79c93589631ecdf54ea60ae6f895234efad396646890ec6781829ef1adb295c5e9f0cd6c18d9bd8cb4ba5e19ac408d0b8",
+        "sysPrefix": "/home/maj/anaconda3",
+        "fileHash": "e398b25002ecbb7bbefb2de594f7fffafe20ac41d8d394fd32cb3a3c6e3181347b90e615e65cae9dadce2ef0cd60594e28dd1b463ee196082b70710626e0cdfb",
         "type": "Unknown"
       },
       {
         "architecture": 3,
-        "path": "/usr/sbin/python",
+        "path": "/home/maj/anaconda3/bin/python",
         "version": {
           "options": {
             "loose": false,
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.8.5-final",
+          "raw": "3.8.3-final",
           "major": 3,
           "minor": 8,
-          "patch": 5,
+          "patch": 3,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.8.5-final"
+          "version": "3.8.3-final"
         },
-        "sysPrefix": "/usr",
-        "fileHash": "974438523883361fe5e37afb7919fbd79c93589631ecdf54ea60ae6f895234efad396646890ec6781829ef1adb295c5e9f0cd6c18d9bd8cb4ba5e19ac408d0b8",
+        "sysPrefix": "/home/maj/anaconda3",
+        "fileHash": "e398b25002ecbb7bbefb2de594f7fffafe20ac41d8d394fd32cb3a3c6e3181347b90e615e65cae9dadce2ef0cd60594e28dd1b463ee196082b70710626e0cdfb",
         "type": "Unknown"
       }
     ],
     "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/home/maj/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/home/maj/anaconda3",
+        "fileHash": "e398b25002ecbb7bbefb2de594f7fffafe20ac41d8d394fd32cb3a3c6e3181347b90e615e65cae9dadce2ef0cd60594e28dd1b463ee196082b70710626e0cdfb",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/maj/anaconda3/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/home/maj/anaconda3",
+        "fileHash": "e398b25002ecbb7bbefb2de594f7fffafe20ac41d8d394fd32cb3a3c6e3181347b90e615e65cae9dadce2ef0cd60594e28dd1b463ee196082b70710626e0cdfb",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/maj/anaconda3/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/home/maj/anaconda3",
+        "fileHash": "8db5db501fb5d8bbd8548325b505f2dc66c030a626e35e57822623f5b938902755be136a30d2b460f13a3d707827df7dea1a306ac528e75d136e0f6ad5a2fc86",
+        "type": "Unknown"
+      },
       {
         "architecture": 3,
         "path": "/usr/sbin/python",
@@ -1818,25 +2019,25 @@
     },
     "InterpreterAutoSeletionRule-currentPath": {
       "architecture": 3,
-      "path": "/usr/sbin/python",
+      "path": "/home/maj/anaconda3/bin/python",
       "version": {
         "options": {
           "loose": false,
           "includePrerelease": false
         },
         "loose": false,
-        "raw": "3.8.5-final",
+        "raw": "3.8.3-final",
         "major": 3,
         "minor": 8,
-        "patch": 5,
+        "patch": 3,
         "prerelease": [
           "final"
         ],
         "build": [],
-        "version": "3.8.5-final"
+        "version": "3.8.3-final"
       },
-      "sysPrefix": "/usr",
-      "fileHash": "974438523883361fe5e37afb7919fbd79c93589631ecdf54ea60ae6f895234efad396646890ec6781829ef1adb295c5e9f0cd6c18d9bd8cb4ba5e19ac408d0b8",
+      "sysPrefix": "/home/maj/anaconda3",
+      "fileHash": "e398b25002ecbb7bbefb2de594f7fffafe20ac41d8d394fd32cb3a3c6e3181347b90e615e65cae9dadce2ef0cd60594e28dd1b463ee196082b70710626e0cdfb",
       "type": "Unknown"
     },
     "preferredGlobalPyInterpreter": {
@@ -1910,7 +2111,206 @@
       "type": "Unknown",
       "displayName": "Python 3.8.5 64-bit"
     },
-    "ProposeLSBanner": false
+    "ProposeLSBanner": false,
+    "/home/maj/anaconda3/envs/tensorflow/bin/python3.6.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/maj/anaconda3/envs/tensorflow/bin/python3.6",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.12-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.12-final"
+        },
+        "sysPrefix": "/home/maj/anaconda3/envs/tensorflow",
+        "fileHash": "5b024238acca5d88fa15fc857252323a32e53e2702ae3395c89ad35fd59c03aa6310e27527cf5b1a356e3ea67f2e7b66fee15237e7f98335af3b947d34635eba"
+      },
+      "expiry": 1603116087092
+    },
+    "/home/maj/anaconda3/envs/tensorflow/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/maj/anaconda3/envs/tensorflow/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.12-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.12-final"
+        },
+        "sysPrefix": "/home/maj/anaconda3/envs/tensorflow",
+        "fileHash": "6f7792e1cfefb77f7c47fde4ff3db115efd8072132f60300adec1be10d49b1efacca0cdb51368d0b79c21804447dbaae730a2ea59b7f6c4632a482ce672ebe1b"
+      },
+      "expiry": 1603116087090
+    },
+    "/home/maj/anaconda3/envs/tensorflow/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/maj/anaconda3/envs/tensorflow/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.6.12-final",
+          "major": 3,
+          "minor": 6,
+          "patch": 12,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.6.12-final"
+        },
+        "sysPrefix": "/home/maj/anaconda3/envs/tensorflow",
+        "fileHash": "6f7792e1cfefb77f7c47fde4ff3db115efd8072132f60300adec1be10d49b1efacca0cdb51368d0b79c21804447dbaae730a2ea59b7f6c4632a482ce672ebe1b"
+      },
+      "expiry": 1603116087088
+    },
+    "/home/maj/anaconda3/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/maj/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/home/maj/anaconda3",
+        "fileHash": "e398b25002ecbb7bbefb2de594f7fffafe20ac41d8d394fd32cb3a3c6e3181347b90e615e65cae9dadce2ef0cd60594e28dd1b463ee196082b70710626e0cdfb"
+      },
+      "expiry": 1603116087621
+    },
+    "/home/maj/anaconda3/envs/tensorflow/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.6.12 64-bit",
+        "hash": "6f7792e1cfefb77f7c47fde4ff3db115efd8072132f60300adec1be10d49b1efacca0cdb51368d0b79c21804447dbaae730a2ea59b7f6c4632a482ce672ebe1b-2fbc44291d5c548fb0bb3d9bbacdb477"
+      },
+      "expiry": 1603116087641
+    },
+    "/home/maj/anaconda3/envs/tensorflow/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "6f7792e1cfefb77f7c47fde4ff3db115efd8072132f60300adec1be10d49b1efacca0cdb51368d0b79c21804447dbaae730a2ea59b7f6c4632a482ce672ebe1b",
+        "info": {
+          "architecture": 3,
+          "path": "/home/maj/anaconda3/envs/tensorflow/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.6.12-final",
+            "major": 3,
+            "minor": 6,
+            "patch": 12,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.6.12-final"
+          },
+          "sysPrefix": "/home/maj/anaconda3/envs/tensorflow",
+          "fileHash": "6f7792e1cfefb77f7c47fde4ff3db115efd8072132f60300adec1be10d49b1efacca0cdb51368d0b79c21804447dbaae730a2ea59b7f6c4632a482ce672ebe1b",
+          "type": "Unknown",
+          "displayName": "Python 3.6.12 64-bit"
+        }
+      },
+      "expiry": 1603116088010
+    },
+    "CONDA_ENVIRONMENTS": {
+      "data": [
+        {
+          "name": "base",
+          "path": "/home/maj/anaconda3"
+        },
+        {
+          "name": "tensorflow",
+          "path": "/home/maj/anaconda3/envs/tensorflow"
+        }
+      ]
+    },
+    "/home/maj/anaconda3/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/maj/anaconda3/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/home/maj/anaconda3",
+        "fileHash": "8db5db501fb5d8bbd8548325b505f2dc66c030a626e35e57822623f5b938902755be136a30d2b460f13a3d707827df7dea1a306ac528e75d136e0f6ad5a2fc86"
+      },
+      "expiry": 1603118319086
+    },
+    "/home/maj/anaconda3/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/maj/anaconda3/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.3-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.3-final"
+        },
+        "sysPrefix": "/home/maj/anaconda3",
+        "fileHash": "e398b25002ecbb7bbefb2de594f7fffafe20ac41d8d394fd32cb3a3c6e3181347b90e615e65cae9dadce2ef0cd60594e28dd1b463ee196082b70710626e0cdfb"
+      },
+      "expiry": 1603118319124
+    }
   },
   "coc-python|/mnt/c/Users/BB-TW/Desktop": {
     "INTERPRETERS_CACHE_v3_PipEnvService:0e1cb55590972e9a90a21060933518f5": [],

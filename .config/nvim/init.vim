@@ -1,4 +1,3 @@
-
 "===
 "===system
 "===
@@ -17,7 +16,7 @@ set shiftwidth=2
 set softtabstop=2
 set autoindent
 set list
-set listchars=tab:\|\ ,trail:▫
+"set listchars=tab:\|\ ,trail:▫
 set scrolloff=4
 set ttimeoutlen=0
 set notimeout
@@ -42,14 +41,14 @@ set completeopt=longest,noinsert,menuone,noselect,preview
 set ttyfast "should make scrolling faster
 set lazyredraw "same as above
 set visualbell
-set fileencodings=utf-8,gb2312,gb18030,gbk,ucs-bom,cp936,latin1
-set enc=utf8
-set fencs=utf8,gbk,gb2312,gb18030
+set enc=utf-8
+set fenc=utf-8
+set fencs=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
 set relativenumber
 set pyxversion=3
 set updatetime=100
 set virtualedit=block
-"set pastetoggle=<F10>
+set pastetoggle=<F2>
 
 
 
@@ -247,9 +246,16 @@ Plug 'scrooloose/syntastic'
 Plug 'skywind3000/asynctasks.vim'
 Plug 'skywind3000/asyncrun.vim'
 
+"leaderF
+Plug 'Yggdroot/LeaderF', { 'do': './install.sh' }
+
+"easymotion 快速跳转
+Plug 'easymotion/vim-easymotion'
+
+"commentary 快速注释
+Plug ' tpope / vim-commentary '
 
 "coc
-
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 "" General Highlighter
@@ -270,10 +276,11 @@ Plug 'Raimondi/delimitMate'
 
 "
 "" Git
+"Plug ' tpope / vim-fugitive '
 "Plug 'theniceboy/vim-gitignore', { 'for': ['gitignore', 'vim-plug'] }
 "Plug 'fszymanski/fzf-gitignore', { 'do': ':UpdateRemotePlugins' }
 ""Plug 'mhinz/vim-signify'
-"Plug 'airblade/vim-gitgutter'
+Plug 'airblade/vim-gitgutter'
 "Plug 'cohama/agit.vim'
 
 
@@ -389,7 +396,7 @@ nmap <leader>a  <Plug>(coc-codeaction-selected)
 nmap <leader>rn <Plug>(coc-rename)
 
 nmap tt :CocCommand explorer<CR>
-"coc-translator
+
 nmap ts <Plug>(coc-translator-p)
 
 "CocCommand
@@ -409,3 +416,18 @@ nnoremap \f :Autoformat<CR>
 let g:formatdef_custom_js = '"js-beautify -t"'
 let g:formatters_javascript = ['custom_js']
 au BufWrite *.js :Autoformat
+
+
+"===
+"===git
+"===
+nmap ]h <Plug>(GitGutterNextHunk)
+nmap [h <Plug>(GitGutterPrevHunk)]
+
+
+"===
+"=== vim-easymotion
+"===
+let g:EasyMotion_do_mapping = 0
+let g:EasyMotion_do_shade = 0
+let g:EasyMotion_smartcase = 1 

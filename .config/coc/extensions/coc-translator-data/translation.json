@@ -1,5 +1,61 @@
 [
   {
+    "id": "4bea70b0-179a-11eb-bd02-e72df67a44b5",
+    "content": [
+      "till",
+      "v. 耕作；犁地 "
+    ],
+    "path": "file:///home/maj/.config/nvim/plugged/vim-easymotion/doc/easymotion.txt\t101\t30"
+  },
+  {
+    "id": "d3033510-1799-11eb-bd02-e72df67a44b5",
+    "content": [
+      "forward.",
+      "adv. 向前；前进；提前；进展 "
+    ],
+    "path": "file:///home/maj/.config/nvim/plugged/vim-easymotion/doc/easymotion.txt\t107\t45"
+  },
+  {
+    "id": "90e0e350-1797-11eb-a07a-4d823503cbdb",
+    "content": [
+      "press",
+      "n. 按；出版社；新闻界；报刊 "
+    ],
+    "path": "file:///home/maj/.config/nvim/plugged/vim-easymotion/doc/easymotion.txt\t73\t4"
+  },
+  {
+    "id": "6a3b3de0-1797-11eb-a07a-4d823503cbdb",
+    "content": [
+      "details",
+      "n. 详情；详细；细目；琐事 "
+    ],
+    "path": "file:///home/maj/.config/nvim/plugged/vim-easymotion/doc/easymotion.txt\t67\t31"
+  },
+  {
+    "id": "4e15e390-1797-11eb-a07a-4d823503cbdb",
+    "content": [
+      "trigger",
+      "n. 触发器；（枪的）扳机；（尤指引发不良反应或发展的）起因；引爆器 "
+    ],
+    "path": "file:///home/maj/.config/nvim/plugged/vim-easymotion/doc/easymotion.txt\t66\t29"
+  },
+  {
+    "id": "45f70810-1797-11eb-a07a-4d823503cbdb",
+    "content": [
+      "mappings",
+      "n. 【数】映像 "
+    ],
+    "path": "file:///home/maj/.config/nvim/plugged/vim-easymotion/doc/easymotion.txt\t59\t50"
+  },
+  {
+    "id": "1466fd40-15e5-11eb-9225-6b8ca3ea7a6a",
+    "content": [
+      "nmap",
+      "web. 端口扫描工具；扫描网络端口；New Mark Adevertiasement Plan "
+    ],
+    "path": "file:///home/maj/.config/nvim/init.vim\t393\t3"
+  },
+  {
     "id": "2e23da80-10ec-11eb-bdc7-1521f0fabe58",
     "content": [
       "translator",
